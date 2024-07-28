@@ -1,4 +1,7 @@
 ## Hi there 👋
+![smiley](https://github.com/user-attachments/assets/11f57566-546f-47be-b1c5-671f0f6911ae)
+
+My Name is Connor, recently I've been self-studying software development. I've gained experience in Pythonm, Javascript, HTML, CSS, C, M, SQL. My favorite framework for doing web-development is flask.
 
 <!--
 **ConnorCNg/ConnorCNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
